@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/tobia/Documents/workspace-spigot/spigot_lib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tobia/Documents/workspace-spigot/NametagEdit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tobia/Documents/workspace-spigot/StatsExtra.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tobia/Documents/workspace-spigot/HolographicDisplays.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tobia/Documents/workspace-spigot/BountyExtra.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tobia/Documents/workspace-spigot/SidebarAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tobia/Documents/workspace-spigot/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tobia/Documents/workspace-spigot/worldedit-bukkit-6.1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tobia/Documents/workspace-spigot/worldguard-bukkit-6.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tobia/Documents/workspace-spigot/Shards.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tobia/Documents/workspace-spigot/Ranks.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
